@@ -72,7 +72,7 @@ export default function Home() {
             <div className="inline-flex items-center gap-2 bg-white/10 border border-white/20 rounded-full px-4 py-2 backdrop-blur-sm">
               <Sparkles className="w-4 h-4 text-amber-400 flex-shrink-0" />
               <span className="text-white/90 text-xs sm:text-sm font-medium">
-                AI-Powered Stamp Generator · Alangulam, Tamil Nadu
+                AI-Powered Stamp Generator
               </span>
             </div>
           </div>
